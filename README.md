@@ -1,5 +1,5 @@
 ### Hey, I'm Yash Sharma 👋
-<img src="yash-sharma1/Yash.gif" width="720" height="480" />
+![Yash](Yash.gif)
 
 <a href="https://twitter.com/YashSharma___">
   <img align="left" alt="Yash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -24,7 +24,7 @@
 
 **About Me** :octocat:
 
-- 🔭 I’m currently working as Community MAnager at Zubi.io
+- 🔭 I’m currently working as Community Manager at Zubi.io
 - 🌱 I’m currently learning MEAN Stack and Advanced Blockchain concepts
 - 💬 Ask me about Community, Technologies any other tech related stuff.
 - 📫 How to reach me: [Twitter - @YashSharma___](https://twitter.com/YashSharma___) , [Linkedin - Yash Sharma](https://linkedin.com/in/sharma-yash) ,
