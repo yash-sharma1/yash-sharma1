@@ -1,6 +1,6 @@
 ### Hey, I'm Yash Sharma 👋
 
-### Connect with me at 🚀
+**Connect with me at** 🚀
 <a href="https://twitter.com/YashSharma___">
   <img align="left" alt="Yash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
