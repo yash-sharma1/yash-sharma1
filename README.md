@@ -37,6 +37,13 @@
 [![GitHub yash-sharma1](https://img.shields.io/github/followers/yash-sharma1?label=follow&style=social)](https://github.com/yashsharma1)
 <!-- [![website](https://img.shields.io/badge/PortfolioWebsite-NameOfWebsite-2648ff?style=flat-square&logo=google-chrome)](https://WebsiteDomain/) -->
 
+**Communities I Manage** :octocat:
+
+- Zubi (Z.Community) - Community Manager
+- Script Foundation India (North India Region Head)
+- Developer Circles from Facebook - Jaipur (Core Team Member)
+- JaipurJS (Co-organizer)
+- Community Lead - HackJaipur Hackathon
 
 **Languages and Tools:**  
 
