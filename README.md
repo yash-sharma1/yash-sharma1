@@ -1,6 +1,5 @@
 ### Hey, I'm Yash Sharma 👋
-
-![Yash] (Yash.gif)
+![](yash-sharma1/Yash.gif)
 
 <a href="https://twitter.com/YashSharma___">
   <img align="left" alt="Yash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
