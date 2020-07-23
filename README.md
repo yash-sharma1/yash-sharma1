@@ -1,8 +1,7 @@
 ### Hey, I'm Yash Sharma 👋
-
+![Yash](Yash.gif)
 <!--
 **yash-sharma1/yash-sharma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Yash](Yash.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
