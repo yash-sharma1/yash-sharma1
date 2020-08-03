@@ -42,10 +42,10 @@
 **Communities I Manage** :octocat:
 
 - Zubi (Z.Community) - Community Manager
-- Script Foundation India (North India Region Head)
 - Developer Circles from Facebook - Jaipur (Core Team Member)
 - JaipurJS (Co-organizer)
 - Community Lead - HackJaipur Hackathon
+- Formerly Script Foundation - North India Region Head
 
 **Languages and Tools:**  
 
