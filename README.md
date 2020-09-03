@@ -1,4 +1,5 @@
-### Hey, I'm Yash Sharma 👋
+### Hola!! I'm Yash Sharma <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+
 ![](https://media.giphy.com/media/2FayYXU90QS9MmAIo/giphy.gif)
 
 **Connect with me at** 🚀
@@ -28,15 +29,18 @@
 
 - 🔭 I’m currently working as Community Manager at Zubi.io
 - 🌱 I’m currently learning MEAN Stack and Advanced Blockchain concepts
-- 💬 Ask me about Community, Technologies any other tech related stuff.
+- 💬 Ask me about Community, DevRel, Technologies and any other tech related stuff.
 - 📫 How to reach me: [Twitter - @YashSharma___](https://twitter.com/YashSharma___) , [Linkedin - Yash Sharma](https://linkedin.com/in/sharma-yash) ,
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I ❤ listening songs on high volume with a cup of coffee - "specially on rainy day"
-- 👨‍💻 Love : Hackathons, Meetups, Conferences, Community and Tech Talks
+- 👨‍💻 Love : Hackathons, Meetups, Conferences, Community, Tech Talks and Travelling x Exploring  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 
 [![Twitter: YashSharma___](https://img.shields.io/twitter/follow/YashSharma___?style=social)](https://twitter.com/YashSharma___)
 [![Linkedin: Yash Sharma](https://img.shields.io/badge/-YashSharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharma-yash/)](https://www.linkedin.com/in/sharma-yash/)
 [![GitHub yash-sharma1](https://img.shields.io/github/followers/yash-sharma1?label=follow&style=social)](https://github.com/yashsharma1)
+[![Medium Badge: YashSharma_](https://img.shields.io/badge/@YashSharma_-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@YashSharma_/)](https://medium.com/@YashSharma_/)
+[![dev.to: YashSharma___](https://img.shields.io/badge/@YashSharma___-%230A0A0A.svg?&style=flat-square&labelColor=000000&logo=dev.to&link=https://dev.to/@YashSharma___/)](https://dev.to/@YashSharma___)
 <!-- [![website](https://img.shields.io/badge/PortfolioWebsite-NameOfWebsite-2648ff?style=flat-square&logo=google-chrome)](https://WebsiteDomain/) -->
 
 **Communities I Manage** :octocat:
