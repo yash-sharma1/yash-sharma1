@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-### **About Me** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="42px">
+**About Me** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="42px">
 
 - 🔭 I’m currently working as Community Manager at Zubi.io
 - 🌱 I’m currently learning MEAN Stack and Advanced Blockchain concepts
@@ -43,7 +43,7 @@
 [![dev.to: YashSharma___](https://img.shields.io/badge/@YashSharma___-%230A0A0A.svg?&style=flat-square&labelColor=000000&logo=dev.to&link=https://dev.to/@YashSharma___/)](https://dev.to/@YashSharma___)
 <!-- [![website](https://img.shields.io/badge/PortfolioWebsite-NameOfWebsite-2648ff?style=flat-square&logo=google-chrome)](https://WebsiteDomain/) -->
 
-### **Communities I Manage** :octocat:
+**Communities I Manage** :octocat:
 
 - Zubi.io (Z.Community) - Community Manager
 - Developer Circles from Facebook - Jaipur (Core Team Member)
@@ -51,7 +51,7 @@
 - Community Lead - HackJaipur Hackathon
 - Formerly Script Foundation - North India Region Head
 
-### **Languages and Tools:**  
+**Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
