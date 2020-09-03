@@ -41,7 +41,7 @@
 
 **Communities I Manage** :octocat:
 
-- Zubi (Z.Community) - Community Manager
+- Zubi.io (Z.Community) - Community Manager
 - Developer Circles from Facebook - Jaipur (Core Team Member)
 - JaipurJS (Co-organizer)
 - Community Lead - HackJaipur Hackathon
@@ -71,7 +71,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-
+<a href="https://github.com/yash-sharma1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-sharma1&theme=light&hide_langs_below=1" />
+</a>
 <a href="https://github.com/yash-sharma1">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-sharma1&show_icons=true&theme=dracula&line_height=27" alt="Yash's github stats"/>
 </a>
+
+### Show some ❤️ by ⭐ some of the repositories! :octocat:
