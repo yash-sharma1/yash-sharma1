@@ -1,4 +1,4 @@
-### **Hola!! I'm Yash Sharma** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+## **Hola!! I'm Yash Sharma** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px"> 
 
 ![](https://media.giphy.com/media/2FayYXU90QS9MmAIo/giphy.gif)
 
@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-### **About Me** :octocat: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29"px>
+### **About Me** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="42px">
 
 - 🔭 I’m currently working as Community Manager at Zubi.io
 - 🌱 I’m currently learning MEAN Stack and Advanced Blockchain concepts
@@ -33,7 +33,7 @@
 - 📫 How to reach me: [Twitter - @YashSharma___](https://twitter.com/YashSharma___) , [Linkedin - Yash Sharma](https://linkedin.com/in/sharma-yash) ,
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I ❤ listening songs on high volume with a cup of coffee - "specially on rainy day"
-- 👨‍💻 Love : Hackathons, Meetups, Conferences, Community, Tech Talks and Travelling x Exploring  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+- 👨‍💻 Love : Hackathons, Meetups, Conferences, Community, Tech Talks and Travelling x Exploring <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
 [![Twitter: YashSharma___](https://img.shields.io/twitter/follow/YashSharma___?style=social)](https://twitter.com/YashSharma___)
