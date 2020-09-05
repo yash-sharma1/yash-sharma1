@@ -47,8 +47,8 @@
 **Communities I Manage** :octocat:
 
 - Zubi.io (Z.Community) - Community Manager
-- Developer Circles from Facebook - Jaipur (Core Team Member)
-- JaipurJS (Co-organizer)
+- Developer Circles from Facebook, Jaipur - Study Group Facilitator and Core Team Member
+- JaipurJS - Co-organizer
 - Community Lead - HackJaipur Hackathon
 - Formerly Script Foundation - North India Region Head
 
