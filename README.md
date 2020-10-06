@@ -22,6 +22,12 @@
 <a href="https://www.facebook.com/kumaryash599/">
   <img align="left" alt="Yash's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://www.medium.com/YashSharma_/">
+  <img align="left" alt="Yash's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/medium.svg" />
+</a>
+<a href="https://www.dev.to/YashSharma___/">
+  <img align="left" alt="Yash's DEV" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/dev-dot-to.svg" />
+</a>
 <br/>
 <br/>
 
