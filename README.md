@@ -33,7 +33,7 @@
 
 **About Me** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="42px">
 
-- 🔭 I’m currently working as Community Manager at Zubi.io
+- 🔭 I’m currently working as Developer Relations at Figment
 - 🌱 I’m currently learning MEAN Stack and Advanced Blockchain concepts
 - 💬 Ask me about Community, DevRel, Technologies and any other tech related stuff.
 - 📫 How to reach me: [Twitter - @YashSharma___](https://twitter.com/YashSharma___) , [Linkedin - Yash Sharma](https://linkedin.com/in/sharma-yash) ,
@@ -50,12 +50,13 @@
 [![dev.to: YashSharma___](https://img.shields.io/badge/@YashSharma___-%230A0A0A.svg?&style=flat-square&labelColor=000000&logo=dev.to&link=https://dev.to/@YashSharma___/)](https://dev.to/@YashSharma___)
 <!-- [![website](https://img.shields.io/badge/PortfolioWebsite-NameOfWebsite-2648ff?style=flat-square&logo=google-chrome)](https://WebsiteDomain/) -->
 
-**Communities I Manage** :octocat:
+**Communities** :octocat:
 
-- Zubi.io (Z.Community) - Community Manager
+- Developer Relations - Figment
 - Developer Circles from Facebook, Jaipur - Study Group Facilitator and Core Team Member
-- JaipurJS - Co-organizer
 - Community Lead - HackJaipur Hackathon
+- Formerly JaipurJS - Co-organizer
+- Formerly Zubi.io (Z.Community) - Community Manager
 - Formerly Script Foundation - North India Region Head
 
 **Languages and Tools:**  
