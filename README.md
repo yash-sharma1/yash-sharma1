@@ -33,7 +33,7 @@
 
 **About Me** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="42px">
 
-- 🔭 I’m currently working as Developer Relations at Figment
+- 🔭 I’m currently working as Developer Relations Lead at Figment
 - 🌱 I’m currently learning MEAN Stack and Advanced Blockchain concepts
 - 💬 Ask me about Community, DevRel, Technologies and any other tech related stuff.
 - 📫 How to reach me: [Twitter - @YashSharma___](https://twitter.com/YashSharma___) , [Linkedin - Yash Sharma](https://linkedin.com/in/sharma-yash) ,
