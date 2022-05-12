@@ -38,7 +38,7 @@
 - 💬 Ask me about Community, DevRel, Technologies and any other tech related stuff.
 - 📫 How to reach me: [Twitter - @YashSharma___](https://twitter.com/YashSharma___) , [Linkedin - Yash Sharma](https://linkedin.com/in/sharma-yash) ,
 - 😄 Pronouns: He/Him/His
-- 🤠 Call me - Sahil (You can call me with this name too)
+- 🤠 Call me - Sahil
 - ⚡ Fun fact: I ❤ listening songs on high volume with a cup of coffee - "specially on rainy day"
 - 👨‍💻 Love : Hackathons, Meetups, Conferences, Community, Tech Talks and Travelling x Exploring <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
