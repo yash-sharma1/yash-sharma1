@@ -50,15 +50,6 @@
 [![dev.to: YashSharma___](https://img.shields.io/badge/@YashSharma___-%230A0A0A.svg?&style=flat-square&labelColor=000000&logo=dev.to&link=https://dev.to/@YashSharma___/)](https://dev.to/@YashSharma___)
 <!-- [![website](https://img.shields.io/badge/PortfolioWebsite-NameOfWebsite-2648ff?style=flat-square&logo=google-chrome)](https://WebsiteDomain/) -->
 
-**Communities** :octocat:
-
-- Developer Relations - Figment
-- Developer Circles from Facebook, Jaipur - Study Group Facilitator and Core Team Member
-- Community Lead - HackJaipur Hackathon
-- Formerly JaipurJS - Co-organizer
-- Formerly Zubi.io (Z.Community) - Community Manager
-- Formerly Script Foundation - North India Region Head
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
