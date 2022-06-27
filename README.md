@@ -1,4 +1,4 @@
-## **Hola!! I'm Yash Sharma** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> 
+## **Hola!! I'm Yash Sharma** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25"> 
 
 ![](https://media.giphy.com/media/2FayYXU90QS9MmAIo/giphy.gif)
 
@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-**About Me** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="42px">
+**About Me** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="42">
 
 - 🔭 I’m currently working as Developer Relations Lead at Figment
 - 🌱 I’m currently learning MEAN Stack and Advanced Blockchain concepts
@@ -40,7 +40,7 @@
 - 😄 Pronouns: He/Him/His
 - 🤠 Call me - Sahil
 - ⚡ Fun fact: I ❤ listening songs on high volume with a cup of coffee - "specially on rainy day"
-- 👨‍💻 Love : Hackathons, Meetups, Conferences, Community, Tech Talks and Travelling x Exploring <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+- 👨‍💻 Love : Hackathons, Meetups, Conferences, Community, Tech Talks and Travelling x Exploring <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24">
 
 
 [![Twitter: YashSharma___](https://img.shields.io/twitter/follow/YashSharma___?style=social)](https://twitter.com/YashSharma___)
