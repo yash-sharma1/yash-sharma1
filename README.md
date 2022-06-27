@@ -34,12 +34,10 @@
 **About Me** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="42">
 
 - 🔭 I’m currently working as Developer Relations Lead at Figment
-- 🌱 I’m currently learning MEAN Stack and Advanced Blockchain concepts
-- 💬 Ask me about Community, DevRel, Technologies and any other tech related stuff.
+- 🌱 I’m currently learning all about Web3
+- 💬 Ask me about Community, DevRel, Community and Web3
 - 📫 How to reach me: [Twitter - @YashSharma___](https://twitter.com/YashSharma___) , [Linkedin - Yash Sharma](https://linkedin.com/in/sharma-yash) ,
 - 😄 Pronouns: He/Him/His
-- 🤠 Call me - Sahil
-- ⚡ Fun fact: I ❤ listening songs on high volume with a cup of coffee - "specially on rainy day"
 - 👨‍💻 Love : Hackathons, Meetups, Conferences, Community, Tech Talks and Travelling x Exploring <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24">
 
 
