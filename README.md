@@ -1,4 +1,4 @@
-## **Hola!! I'm Yash Sharma** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25"> 
+## **gm!! I'm Yash Sharma** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25"> 
 
 ![](https://media.giphy.com/media/2FayYXU90QS9MmAIo/giphy.gif)
 
