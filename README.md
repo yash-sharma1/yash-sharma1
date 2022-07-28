@@ -16,12 +16,6 @@
 <a href="https://t.me/Yash_Sharma">
   <img align="left" alt="Yash's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/yashsharma.dev">
-  <img align="left" alt="Yash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/yashsharma.dev/">
-  <img align="left" alt="Yash's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <a href="https://www.medium.com/YashSharma_/">
   <img align="left" alt="Yash's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/medium.svg" />
 </a>
