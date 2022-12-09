@@ -29,9 +29,9 @@
 
 - 🔭 I’m currently working as Developer Relations Lead at Figment
 - 🌱 I’m currently learning all about Web3
-- 💬 Ask me about Community, DevRel, Community and Web3
+- 💬 Ask me about DevRel, Community and Web3
 - 📫 How to reach me: [Twitter - @YashSharma___](https://twitter.com/YashSharma___) , [Linkedin - Yash Sharma](https://linkedin.com/in/sharma-yash) ,
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns: He/Him
 - 👨‍💻 Love : Hackathons, Meetups, Conferences, Community, Tech Talks and Travelling x Exploring <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24">
 
 
