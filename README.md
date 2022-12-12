@@ -37,9 +37,9 @@
 
 [![Twitter: YashSharma___](https://img.shields.io/twitter/follow/0xYashSharma?style=social)](https://twitter.com/0xYashSharma)
 [![Linkedin: Yash Sharma](https://img.shields.io/badge/-YashSharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xYashSharma/)](https://www.linkedin.com/in/0xYashSharma/)
-[![GitHub yash-sharma1](https://img.shields.io/github/followers/yash-sharma1?label=follow&style=social)](https://github.com/yashsharma1)
-[![Medium Badge: YashSharma_](https://img.shields.io/badge/0xYashSharma-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/0xYashSharma/)](https://medium.com/@YashSharma_/)
-[![dev.to: YashSharma___](https://img.shields.io/badge/0xYashSharma-%230A0A0A.svg?&style=flat-square&labelColor=000000&logo=dev.to&link=https://dev.to/@YashSharma___/)](https://dev.to/0xYashSharma)
+[![GitHub yash-sharma1](https://img.shields.io/github/followers/yash-sharma1?label=follow&style=social)](https://github.com/yash-sharma1)
+[![Medium Badge: YashSharma_](https://img.shields.io/badge/0xYashSharma-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/0xYashSharma/)](https://medium.com/0xYashSharma/)
+[![dev.to: YashSharma___](https://img.shields.io/badge/0xYashSharma-%230A0A0A.svg?&style=flat-square&labelColor=000000&logo=dev.to&link=https://dev.to/0xYashSharma/)](https://dev.to/0xYashSharma)
 <!-- [![website](https://img.shields.io/badge/PortfolioWebsite-NameOfWebsite-2648ff?style=flat-square&logo=google-chrome)](https://WebsiteDomain/) -->
 
 **Languages and Tools:**  
