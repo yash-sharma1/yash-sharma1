@@ -4,10 +4,10 @@
 
 **Connect with me at** 🚀
 
-<a href="https://twitter.com/YashSharma___">
+<a href="https://twitter.com/0xYashSharma">
   <img align="left" alt="Yash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/sharma-yash">
+<a href="https://linkedin.com/in/0xYashSharma">
   <img align="left" alt="Yash's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/yash-sharma1">
@@ -16,10 +16,10 @@
 <a href="https://t.me/Yash_Sharma">
   <img align="left" alt="Yash's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.medium.com/YashSharma_/">
+<a href="https://www.medium.com/0xYashSharma">
   <img align="left" alt="Yash's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/medium.svg" />
 </a>
-<a href="https://www.dev.to/YashSharma___/">
+<a href="https://www.dev.to/0xYashSharma/">
   <img align="left" alt="Yash's DEV" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/dev-dot-to.svg" />
 </a>
 <br/>
@@ -30,7 +30,7 @@
 - 🔭 I’m currently working as Developer Relations Lead at Figment
 - 🌱 I’m currently learning all about Web3
 - 💬 Ask me about DevRel, Community and Web3
-- 📫 How to reach me: [Twitter - @YashSharma___](https://twitter.com/YashSharma___) , [Linkedin - Yash Sharma](https://linkedin.com/in/sharma-yash) ,
+- 📫 How to reach me: [Twitter - @YashSharma___](https://twitter.com/0xYashSharma) , [Linkedin - Yash Sharma](https://linkedin.com/in/0xYashSharma) ,
 - 😄 Pronouns: He/Him
 - 👨‍💻 Love : Hackathons, Meetups, Conferences, Community, Tech Talks and Travelling x Exploring <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24">
 
