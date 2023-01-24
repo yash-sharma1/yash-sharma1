@@ -1,6 +1,6 @@
-## **gm! I'm Yash Sharma** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25"> 
+## **gm! I'm Yash** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25"> 
 
-![](https://media.giphy.com/media/2FayYXU90QS9MmAIo/giphy.gif)
+![](https://raw.githubusercontent.com/yash-sharma1/yash-sharma1/master/assets/banner.png)
 
 **Connect with me at** 🚀
 
