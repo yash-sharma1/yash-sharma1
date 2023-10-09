@@ -27,7 +27,7 @@
 
 **About Me** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="42">
 
-- 🔭 I’m currently working as Developer Relations Lead at Figment
+- 🔭 I’m currently working as a Developer Relations Lead at Figment
 - 🌱 I’m currently learning all about Web3
 - 💬 Ask me about DevRel, Community and Web3
 - 📫 How to reach me: [Twitter - 0xYashSharma](https://twitter.com/0xYashSharma) , [Linkedin - Yash Sharma](https://linkedin.com/in/0xYashSharma) ,
@@ -60,13 +60,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-<a href="https://github.com/yash-sharma1">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yash-sharma1&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/yash-sharma1">
- <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yash-sharma1&show_icons=true&theme=dracula&line_height=27" alt="Yash's github stats"/>
-</a>
 
 ### Show some ❤️ by ⭐ some of the repositories! :octocat:
